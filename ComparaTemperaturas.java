@@ -18,7 +18,7 @@ public class ComparaTemperaturas {
 		System.out.printf("%.2f" + " graus em Fahrenheit.", fahrenheit);
 		System.out.printf("%n" + "%.2f" + " graus em Kelvin.", kelvin);
 		System.out.printf("%n" + "%.2f" + " graus em Réaumur.", reaumur);
-		System.out.printf("%n" + "%.2f" + " graus em Rankine.", rankine); // printf("%.2f", variavel);
+		System.out.printf("%n" + "%.2f" + " graus em Rankine.", rankine); 
 
 	}
 
